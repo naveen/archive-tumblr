@@ -1,0 +1,119 @@
+caption: !!python/str "<p><strong>An iOS wish list</strong></p>\n<p><span>Before you\
+  \ start thinking \u201Cthis man should just switch to Android\u201D, please read\
+  \ the last paragraph below and then come back here.</span></p>\n<p><span>I feel\
+  \ as though everybody has one of these lists. Some take a \u201Cdeveloper\u2019\
+  s view\u201D into how the OS should behave. (\u201CYeah, I\u2019d like, uhh, for\
+  \ you to expose an API for blah so that I can Apple TV with my bloo.\u201D) Others\
+  \ are more front-end and user experience focused. For still others, it resembles\
+  \ a \u201Cpower user's\u201D hit list of crazy things they want an OS to do. (\u201C\
+  Yeah, when I\u2019m driving, right, and the phone is clearly away from my face,\
+  \ make the default audio interface the car\u2019s bluetooth and go to speaker \u2013\
+  \ but only if my mom is also not in the car.\u201D)</span></p>\n<p><span>I think\
+  \ I\u2019m somewhere between the developer-view and the UX-view. I think my list\
+  \ isn\u2019t just some \u201Cwouldn\u2019t it be cool if\u201D but rather features\
+  \ that should be cleaned up to deal with scale: things compounded and getting worse\
+  \ because of the scale of messages we get, the ever-growing number of apps we use,\
+  \ the number of people we talk to regularly, the number of taps and authentications\
+  \ we must perform to even do the simplest of actions. These things weren\u2019t\
+  \ an issue too long ago, but now that we live in a world where I have a giant folder\
+  \ just for \u201Canonymous apps\u201D on my phone, well, we need to clean the game\
+  \ up a bit.</span></p>\n<p><span>So, here\u2019s my currently pressing iOS wish\
+  \ list:</span></p>\n<p><span>\u2022 Allow me to set protocol handler defaults. That\
+  \ is, \u201Cmailto:\u201D always opens in Gmail.app and \u201Chttp://\u201D always\
+  \ opens in Chrome.app. (As opposed to some apps taking me to Chrome and others taking\
+  \ me to Safari when I wish not to). For political reasons, this may never happen,\
+  \ but I hope it eventually comes mirroring behavior as on our desktops.</span></p>\n\
+  <p><span>\u2022 Share cookies across web views. I understand the reason for application-specific\
+  \ sandboxes and the reason web views are not shared between applications. But I\
+  \ wonder if there\u2019s another way to do this. Perhaps, by default, the app gets\
+  \ its own web view sandbox, but then the user is given the option to \u201Cuse\u201D\
+  \ an existing keychain/cookie store. Otherwise, you keep having to log into the\
+  \ same services across different apps. And let me tell you, with ever more applications\
+  \ using two-factor authentication and with the use of password helpers like 1Password,\
+  \ logging in feels like it takes up a quarter of my day. I wonder if the \u201C\
+  use shared store\u201D action alone is enough to get around the security issues\
+  \ that a separate sandbox solves. It\u2019s not only keychain, but also your cookies\
+  \ and profiles as well that might need this sharing. By explicitly asking the user\
+  \ for permission to drop their keychain into a view, might we be able to get around\
+  \ attacks that might originate inside the web views? Anything else on the security\
+  \ front I am missing here with this thinking?</span></p>\n<p><span>\u2022 Give me\
+  \ dark-silent. One of the hacks I\u2019ve taken to using is to turn off all lock\
+  \ screen notifications. I don\u2019t need to be interrupted hundreds of times each\
+  \ day. Most of the time, I\u2019m not around to see the notifications anyway and\
+  \ each just end up waking up the screen for a few seconds at a time (and, therefore,\
+  \ eating up battery life). For a while, I wished that the \u201Csilent\u201D hard\
+  \ button wouldn\u2019t just go to silent sound/vibrate mode, but make the screen\
+  \ silent as well. A dark-silent, if you will.</span></p>\n<p><span>\u2022 That hack\
+  \ notwithstanding, we still need a better way to manage notifications. What a disaster\
+  \ these are on our phones. With every new app wanting to turn them all on in order\
+  \ to get engagement and repeated usage, it seems to me that managing them individually\
+  \ is just crazy. There are too many notification toggles per app. Perhaps a different\
+  \ method is to introduce some sort of notification buckets that apps could be dropped\
+  \ into that all have a different notification profile. I like the following four\
+  \ buckets:</span></p>\n<blockquote>\n<p><span>\u2022\u2022 No thanks, never, nothing\
+  \ (the way I force apps that really misbehave\u2026my punishment is to block them\
+  \ fully forever)</span></p>\n<p>\u2022\u2022 Yes, thanks, app icon notifications\
+  \ only (the way I force nearly all apps)</p>\n<p>\u2022\u2022 Yes, thanks, notifications\
+  \ in the drawer and app icon adjustments (the way I have WUT and most other apps\
+  \ setup)</p>\n<p>\u2022\u2022 Yes, and wake up audio &amp; screen; very important\
+  \ (like Phone and iMessage)</p>\n</blockquote>\n<p><span>\u2022 Send my iMessages\
+  \ (and SMSes) in the background. Just send it \u2013 that\u2019s what I told you\
+  \ to do in the first place. My Sony Ericsson <em>candy bars</em>\_from 2001 had\
+  \ this feature. By default, the message should send at the next available opportunity\
+  \ (or, in the case of total network failure, at least try three times before giving\
+  \ up so as to save battery). I always liked this simple feature back in the day:\
+  \ you could compose a text and jump into the subway or elevator and it would get\
+  \ sent whenever the next signal opportunity arose. (I never have to send the same\
+  \ text twice after waiting the progress bar to take its sweet, sweet time only to\
+  \ let me down with a failure.)</span></p>\n<p><span>\u2022 If I see a notification,\
+  \ mark it as read/seen not only in the notifications drawer, but inform the app\
+  \ to clear it as well. Nothing more infuriating than to \u201Cread\u201D a text\
+  \ in Notifications, only to read it and mark it once more inside iMessages. I can\u2019\
+  t tell you the number of times a day I have to do this. If you\u2019re anything\
+  \ like me (maybe a little OCD), you do this every hour to make for a clean inbox.</span></p>\n\
+  <p>\_<span>\u2022 A better way to manage apps. I currently have it setup so that\
+  \ anything I buy on the desktop shows up on automatically on iPhone and iPad. That\u2019\
+  s nice and that\u2019s the way it should have always worked. But managing the long\
+  \ tail of apps that are on the phone is just impossible. Some are in folders, some\
+  \ are on different screens and, most of the time, I can\u2019t remember where an\
+  \ app actually is. If an app is not on the home screen, I\u2019ve taken to just\
+  \ using Spotlight to get to it. So it makes me wish Spotlight was better \u2013\
+  \ and that Spotlight was accessible not only from the home view, but from any view,\
+  \ even if you\u2019re in an app. We type URLs to get to web sites, not too hard\
+  \ to think I could just type an app\u2019s name to get to it. This is sort of like\
+  \ bookmarks in your browser: we used to bookmark every single site and put them\
+  \ into neat folders and hierarchies, but now you have a few common ones on your\
+  \ \u201Cbookmarks bar\u201D; everything else is solved with search.</span></p>\n\
+  <p><span>\u2022 As someone who develops software as well, I\u2019m tempted to put\
+  \ in an API request or two in here. But I\u2019m not convinced a Siri API or a Spotlight\
+  \ API is at the top of my list. For instance, It would be great if Spotlight would\
+  \ index and allow deep links into apps: a place search for \u201CLever House\u201D\
+  \ goes straight into foursquare, but such an index is expensive to create and to\
+  \ store, so I don\u2019t know how one could elegantly solve that. It\u2019s one\
+  \ thing to index all 16 GB of your phone\u2019s disk, but another thing entirely\
+  \ to pull in an index of 50MM+ venue names from foursquare into your local store\
+  \ (or all your files from your 100GB Dropbox). Didn\u2019t greplin try to solve\
+  \ something like this back in the day? One new API wish I would add is to introduce\
+  \ a TouchID API: but one that is only for secondary \u201Cunlocking\u201D, much\
+  \ as it works with iTunes app store now. There are plenty of apps out there for\
+  \ which I have long, complex passwords: 1Password, bank apps, Oscar Health. These\
+  \ apps should auto-lock as soon as they background for security reasons, but if\
+  \ I foreground them within a certain time window, it would be nice to TouchID myself\
+  \ into them. I\u2019d worry that too many apps might use this as a primary means\
+  \ of authentication, something that it is not meant for, but let\u2019s just leave\
+  \ that to app developers to decide.</span></p>\n<p><span>And before anyone jumps\
+  \ in to ask/scold me to get an Android: I use both OSes, but time and again, I keep\
+  \ coming back to iPhone as my primary interface. I could ask Android many of these\
+  \ same questions, too. I prefer iPhone at the moment and like it despite all its\
+  \ faults, because I have the best of Google software (all their apps like Gmail\
+  \ and Maps and Drive and its ability to keep my profile synced) paired with the\
+  \ things I like about Apple software and hardware. I also like that many pieces\
+  \ of software are still iOS-first, so why would I want to miss out on trying new\
+  \ things and staying up to date? I also prefer to develop in XCode and iOS because\
+  \ the environment is just so amazing and quicker for me to prototype and play with\
+  \ ideas.</span></p>"
+id: 84539215705
+photos: [./images/2014-05-02/6245685e6835802e8d95e1fbf837a11d4dc5aaaf1d0f507924ed3b7e8d01a758.jpg]
+tags: [!!python/unicode 'photography', !!python/unicode 'blog', !!python/unicode 'apple',
+  !!python/unicode 'ios', !!python/unicode 'mobile']
+url: !!python/unicode 'http://x.naveen.com/post/84539215705/an-ios-wish-list'

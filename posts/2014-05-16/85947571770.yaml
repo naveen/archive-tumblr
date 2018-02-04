@@ -1,0 +1,9 @@
+caption: !!python/str "<p>At\_<span>16,000 feet \u2013\_</span><span>Kilimanjaro\u2019\
+  s Arrow Glacier camp.</span></p>"
+id: 85947571770
+tags: [!!python/unicode 'photography', !!python/unicode 'video']
+url: !!python/unicode 'http://x.naveen.com/post/85947571770/at-16000-feet-kilimanjaros-arrow-glacier-camp'
+video: {embed: !!python/unicode '<iframe src="https://player.vimeo.com/video/95328748?title=0&byline=0&portrait=0"
+    width="500" height="281" frameborder="0" title="Kilimanjaro Arrow Glacier camp
+    at 16,000 feet." webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>',
+  url: !!python/unicode 'https://vimeo.com/95328748?title=0&byline=0&portrait=0&color=0cbadf'}

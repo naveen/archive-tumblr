@@ -1,0 +1,11 @@
+caption: !!python/str "<p><a href=\"http://blog.zhephree.com/post/2928223444\">zhephree</a>:</p>\n\
+  <blockquote>\n<p>Foursquare co-founder Naveen Selvadurai asked me to give my perspective\
+  \ on developing against the foursquare API. I\u2019ve been using the API since before\
+  \ it was fully public and I\u2019ve seen it go from often inconsistent infant to\
+  \ a fast, secure, and predictable (in a good way) adult. I went on a poorly\u2026\
+  </p>\n</blockquote>"
+id: 2928714246
+link: {text: !!python/unicode 'Zhephree: The foursquare API and What It Taught Me',
+  to: !!python/unicode 'http://blog.zhephree.com/post/2928223444'}
+tags: []
+url: !!python/unicode 'http://x.naveen.com/post/2928714246/zhephree-the-foursquare-api-and-what-it-taught-me'

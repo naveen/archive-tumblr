@@ -1,0 +1,12 @@
+caption: '<p>beat that beat.</p>
+
+  <p>i dare you to sit still in your chair as you listen to this.</p>
+
+  <p><a href="http://www.youtube.com/watch?v=aiSa7THgxrI">CARIBOU - Odessa</a></p>'
+id: 3099866393
+tags: []
+url: !!python/unicode 'http://x.naveen.com/post/3099866393/beat-that-beat-i-dare-you-to-sit-still-in-your'
+video: {embed: !!python/unicode '<iframe width="500" height="281"  id="youtube_iframe"
+    src="https://www.youtube.com/embed/aiSa7THgxrI?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque"
+    frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>',
+  url: !!python/unicode 'https://www.youtube.com/watch?v=aiSa7THgxrI'}

@@ -1,0 +1,8 @@
+caption: !!python/str "<p>I create a simple loop to sum up the contents of each array\
+  \ and time them using mach_absolute_time(). The NSMutableArray takes on average\
+  \ 400 times longer!! (not 400 percent, just 400 times longer!\u2026</p>"
+id: 98624760
+link: {text: !!python/unicode 'NSArray vs. C Array performance comparison | memo.tv',
+  to: !!python/unicode 'http://www.memo.tv/nsarray_vs_c_array_performance_comparison'}
+tags: []
+url: !!python/unicode 'http://x.naveen.com/post/98624760/nsarray-vs-c-array-performance-comparison'

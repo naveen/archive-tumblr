@@ -1,0 +1,70 @@
+caption: !!python/str "<p><b>Making sense of sleep</b></p><p>I spent a lot of time\
+  \ in 2013\u20132014 exploring ideas at the intersection of data and health. I sketched\
+  \ out a few ideas, and built a few different prototypes, some of which I told people\
+  \ about - like <a href=\"http://x.naveen.com/post/51808692792/a-personal-api\">my\
+  \ personal API</a>, api.naveen \u2013 and some of which never left my local development\
+  \ environment and test iPhone. I wanted to see through a few themes: make it easier\
+  \ to capture data, make sense of the data, and lastly, see if by bringing together\
+  \ data, I could learn something about myself.</p><p>\nMy deepest explorations were\
+  \ around tracking and capturing data - that\u2019s always the hardest step, it\u2019\
+  s always the one that is hard to do authentically (without adding gamification,\
+  \ without sucking in data form other sources, without cheating by attempting to\
+  \ make sense of signals when none exist). So I coded up what I thought was a better\
+  \ journal. \u201C<i>What are the things Google can\u2019t see about me?</i>\u201D\
+  \ was a question I often asked myself. My smart journal was designed not only to\
+  \ take input from various means \u2013 via API, via photo upload, via voice and\
+  \ via free-form text input which it would then later make sense of - but to do it\
+  \ in a seamless, non-intrusive way.</p><p>\nI also believed in the idea that we\
+  \ should build better software around things we already do: not necessarily wear\
+  \ a new device around our hips, but to build a better weight scale, a better monitor\
+  \ for medicine, a better journal.</p><p>\nI hacked away at a few concepts around\
+  \ the journal - and I became convinced that my \u2018Journal\u2019 would have the\
+  \ simplest of views possible: a Twitter-like free-form input box where you could\
+  \ type whatever you wanted and it would log your entry smartly and add appropriate\
+  \ sensor metadata it knew about. (Enter \u201C70 bpm\u201D at the end of your run\
+  \ home, and it would automatically tack on all the other signals it knew: timestamp,\
+  \ location, weather, if other audio was playing on your phone, shown on a timeline\
+  \ alongside a photo you took then, &amp;c.)</p><p>\nBut, I don\u2019t always run,\
+  \ and I don\u2019t always think to enter things like heart rate and when I took\
+  \ some medicine. So, convinced I needed a more specialized journal that I would\
+  \ deliberately touch at least once a day, I built an alarm clock.</p><p>\nWhy an\
+  \ alarm clock? For me, it satisfied a few things:</p><ul><li>Everyone sleeps (total\
+  \ addressable market = everyone. HA!)</li><li>It passes Larry Page\u2019s toothbrush\
+  \ test (a service that you use at least twice a day)</li><li>It\u2019s the first\
+  \ thing you touch in the morning and the last thing you touch at night - imagine\
+  \ that as an entry point for everything else you might want to do as a service:\
+  \ \u201C<i>Hey, how was your day? Hit me with a mood and a journal entry. Tap in\
+  \ emoji.</i>\u201D \u201C<i>Hello, tomorrow morning is going to be packed for you.\
+  \ Mind if i tell you to go to bed at 10:30pm tonight and set your alarm for the\
+  \ morning? You\u2019ll need at least 6.5 hours if you\u2019re going to make the\
+  \ gym and then your first meeting.</i>\u201D</li><li>The alarm clock - right alongside\
+  \ the weight scale - are the two things most people have and need no additional\
+  \ training on. They are perfect examples of devices already in the room, and that\
+  \ you don\u2019t have to get into the habit of wearing and recharging. (See \u201C\
+  <a href=\"http://x.naveen.com/post/82921168991/wearables-versus-thereables\"><i>Thereables</i></a>\u201D\
+  ).</li><li>It also allowed me to explore other features: wake up to music instead\
+  \ of a random horn; get rid of snooze.<br/></li></ul><p>\nI moved on from exploring\
+  \ these ideas for a while \u2013 to come back to some other time perhaps. Around\
+  \ the time I got going with our company Expa, I came across <a href=\"https://hello.is/\"\
+  >Sense by Hello</a>. It perfectly captured the problems I was trying to solve: easy\
+  \ to log your sleeps, and something that you could interact with daily. I love that\
+  \ the device has been in the same form nearly all that time, too: packed with the\
+  \ right sensors to help you sleep and to keep track of how well you did that. I\
+  \ am particularly a fan of the softly rising music to wake you up (you\u2019re never\
+  \ \u201Cafraid to wake up\u201D with music as opposed to a blaring horn).</p><p>\n\
+  A Sense device has the kind of Apple-like big company magic that makes you wonder\
+  \ how a startup did it \u2013 soft glows, hover gestures to wave it to silence in\
+  \ the morning, packed with sensors like air quality and temperature.</p><p>\nTheir\
+  \ latest addition \u2013 <a href=\"https://store.hello.is/sense-with-voice\">Sense\
+  \ with Voice</a> \u2013 is something I am looking forward to really getting into.\
+  \ Voice is a natural evolution of the product \u2013 you tell the computer what\
+  \ you want, and the computer gives you what you want. The key benefit of voice the\
+  \ team\u2019s talked about quite a bit is that a mobile phone\u2019s screen (and\
+  \ any distracting notifications) will no longer be the last thing you stare at before\
+  \ sleep. I am also hoping that voice-as-interface is one of the stepping stones\
+  \ to bring them out of the sleep-at-first focus and into other aspects of our health.</p>"
+id: 153912522515
+photos: [./images/2016-12-01/59aa8c95c853db0c2ddf2fa10e65e89a644bfaa2843b6263cdc217016790e9f5.png]
+tags: [!!python/unicode 'blog', !!python/unicode 'health', !!python/unicode 'sense',
+  !!python/unicode 'sensebyhello', !!python/unicode 'sleep', !!python/unicode 'thereables']
+url: !!python/unicode 'http://x.naveen.com/post/153912522515/making-sense-of-sleep'

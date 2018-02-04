@@ -1,0 +1,6 @@
+caption: !!python/str "<p>Summer is here.</p><p>Come as you are.\u2122</p>"
+id: 123820271215
+photos: [./images/2015-07-11/04422d0d3e584fa856095c4a1f83df969a7f191f43fde2843d99152f2dcb1aae.jpg]
+tags: [!!python/unicode 'photography', !!python/unicode 'newyork', !!python/unicode 'montauk',
+  !!python/unicode 'summer']
+url: !!python/unicode 'http://x.naveen.com/post/123820271215/summer-is-here-come-as-you-are'

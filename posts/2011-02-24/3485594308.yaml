@@ -1,0 +1,12 @@
+caption: !!python/str "<p>most incredible video you\u2019ll see this week.</p>\n<p>FIGHT!</p>\n\
+  <p><a href=\"http://www.youtube.com/watch?v=wlG7SMsNbc0&amp;feature=player_embedded\"\
+  >The Best Taekwondo Fight EVER!!!!</a></p>"
+id: 3485594308
+tags: []
+url: !!python/unicode 'http://x.naveen.com/post/3485594308/most-incredible-video-youll-see-this-week'
+video: {embed: !!python/unicode '<object width="500" height="307"><param name="movie"
+    value="http://www.youtube.com/e/wlG7SMsNbc0"></param><param name="allowFullScreen"
+    value="true"></param><param name="allowscriptaccess" value="always"></param><embed
+    src="http://www.youtube.com/e/wlG7SMsNbc0" type="application/x-shockwave-flash"
+    width="500" height="307" allowscriptaccess="always" allowfullscreen="true"></embed></object>',
+  url: null}

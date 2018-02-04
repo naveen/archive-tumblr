@@ -1,0 +1,91 @@
+caption: !!python/str "<p><strong>What I\u2019ve been doing at Oscar.</strong></p>\n\
+  <p>These past few months, I have been helping a couple of startups I like.</p>\n\
+  <p>Sometimes, I have been investing in them. (Well, I\u2019m trying to: I am basically\
+  \ making it up and learning as I go along, but it could be argued that\u2019s what\
+  \ all angel investing really is about.)</p>\n<p><span>Sometimes, I have been spending\
+  \ time hanging out at a company and helping more directly.</span></p>\n<p><span>But\
+  \ regardless of whether I invest or help a team more directly, I think the way I\u2019\
+  ve been thinking about it is to only get involved in projects that I wish I myself\
+  \ had started. (Max Levchin said it best: \u201C<a href=\"https://twitter.com/mlevchin/status/408612954402062336\"\
+  >One of the best heuristics I found when deciding to invest [in] a startup is whether\
+  \ I would seriously consider joining it, if asked.</a>\u201D).</span></p>\n<p><span>The\
+  \ company that I\u2019ve spent the most time with recently is <a href=\"https://www.hioscar.com/\"\
+  >Oscar Health</a>: I\u2019ve been here for the last five months.</span></p>\n<p><span>If\
+  \ you know me, you already know I\u2019ve been curious about and playing around\
+  \ in the health space. My hacking around in the quantified self space brought me\
+  \ to personal health, which is basically the idea of using tools (either built by\
+  \ the community or by health &amp; fitness companies) to take charge of our own\
+  \ health. This personal health movement can be thought of one model where care is\
+  \ proactive rather than reactive. All this got me closer to learning about where\
+  \ the healthcare system is really broken and needs technology\u2019s help the most.</span></p>\n\
+  <p><span>That, of course, brought me to Oscar. I had already known the guys before\
+  \ they got started and I was always excited about the possibilities anytime we got\
+  \ together to talk about the idea of starting an insurance company. If you want,\
+  \ think of my exploration as a see-saw: \u201Cthings that we do for ourselves\u201D\
+  \ on the left and \u201Cthings a care provider does for us\u201D on the right. I\
+  \ started on the left and I slowly started learning and moving right. And then I\
+  \ figured I should skip ahead and jump all the way to the right and see the world\
+  \ from Oscar\u2019s perspective.</span></p>\n<p><span>I\u2019ve been helping Oscar\
+  \ in various roles: with recruiting for different parts of the team (mainly on the\
+  \ product and engineering sides); with general company \u201Cthings\u201D (helping\
+  \ with PR/marketing, with process, organizing engineering and recruiting meets,\
+  \ &amp;c.).</span></p>\n<p><span>I also spent a lot of time helping build different\
+  \ parts of the product:</span></p>\n<p><span>The mobile experience - of course,\
+  \ this one was easy. Many of our members are young and tech-savvy and almost always\
+  \ on their mobile phones. They order food, their cabs, buy movie tickets, read the\
+  \ news, see train times, search for things exclusively on mobile. So why shouldn\u2019\
+  t they have a great experience where their healthcare questions and delivery also\
+  \ happens on mobile? I made this a big priority for the team for the January 1st\
+  \ launch: we worked nights and days with a very tiny team. And, in something like\
+  \ eight weeks, we put together a great <a href=\"https://itunes.apple.com/us/app/oscar-health/id781584599?mt=8\"\
+  >Oscar Member app for iOS</a>. (Yes, Android at some point very soon!).</span></p>\n\
+  <p><span>The care finder - this tool can be thought of as your first point of contact\
+  \ when you look to solve an issue in health for yourself or a family member. Instead\
+  \ of blindly Googling for an answer, we imagine that Oscar itself can be your first\
+  \ point of contact. You could even think of it like <a href=\"https://foursquare.com/explore\"\
+  >foursquare\u2019s \u201CExplore\u201D</a>: before you go somewhere, use the search\
+  \ and allow it to pass you to the right spot. The mechanics of how this works are\
+  \ hidden behind the scenes in order to keep the interface simple, but the idea is\
+  \ that it will use basic information about each provider to point you to the right\
+  \ place. Over time, we imagine this system can get better as more data points and\
+  \ views from your friends are added in. \u201CShow me only doctors that can speak\
+  \ Spanish.\u201D \u2013 \u201CGo here because many people your age go here.\u201D\
+  \ \u2013 \u201CShow me only providers that have many years of experience and happen\
+  \ to be tech-savvy, too.\u201D Why should a health insurance company only step in\
+  \ at the very end of care? (That is: at the point where care has already been delivered\
+  \ and the insurer only steps in to pay your bill for you.) The idea instead is that\
+  \ when you need help, you ask us and we point you to an appropriate place of care\
+  \ that not only solves your needs but also does it transparently.</span></p>\n<p><span>The\
+  \ \u201CDoctor on Call\u201D - this one is something we are really proud of and\
+  \ excited about. Some of us were lucky enough to grow up with a family doctor who\
+  \ would be able to answer simple questions over the phone: helping you get care\
+  \ and saving you time from having to drive out to the doctor\u2019s office and taking\
+  \ a couple of hours out of your work day. Whatever happened to those days? Oscar\u2019\
+  s \"Doctor on Call\u201D does exactly this. We\u2019ve partnered with Teladoc and\
+  \ their physician network to provide this service. So, at any time, no matter where\
+  \ you are (in the U.S.), you\u2019ll be able to ring up a doctor and talk to them\
+  \ about a problem you have. The doctor will be able to recommend a solution, prescribe\
+  \ you medicine or, in cases where a further in-person visit is needed, send you\
+  \ to a specialist to get care. And the best part: all this is free for members.\
+  \ We could have pointed members to independent applications out there now that seem\
+  \ to do this, but we wanted to embed this experience natively into Oscar itself.\
+  \ This way, you never have to leave this ecosystem and use yet another login to\
+  \ use such a system. And by seamlessly integrating this, we could also hide the\
+  \ costs and make it free for you in a much easier way.</span></p>\n<p><span>All-in-all,\
+  \ this is just the start of even deeper products and issues Oscar can solve.</span></p>\n\
+  <p><span>The appeal in Oscar is not only that we get to see through 2014 eyes and\
+  \ solve all the things that incumbents have trouble solving. Or the fact that we\
+  \ can bring a tech-focused approach and solutions to the health care space. To me,\
+  \ the most exciting is that by starting over from scratch, we have the ability to\
+  \ write a new playbook on how a health insurance company should work. We have a\
+  \ chance to provide additional features and services that customers have not expected\
+  \ before. We have the ability to start your care and our relationship with you not\
+  \ after you get hurt and after you\u2019ve been fixed up by the doctor, but rather\
+  \ by being the first point of contact when you do need care. And perhaps, someday,\
+  \ so easy we will even get one step ahead of you and actively alert you to offer\
+  \ you services before you come to realize you need them.</span></p>"
+id: 75842527294
+photos: [./images/2014-02-06/e2cdfbbf2841b5d1688be5153ec3762c4e76500a5b78bdfc74a3a5b7e4fdb2c6.jpg]
+tags: [!!python/unicode 'photography', !!python/unicode 'work', !!python/unicode 'oscar',
+  !!python/unicode 'oscarhealth', !!python/unicode 'blog']
+url: !!python/unicode 'http://x.naveen.com/post/75842527294/what-ive-been-doing-at-oscar'

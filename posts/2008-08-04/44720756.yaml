@@ -1,0 +1,7 @@
+caption: !!python/str "<p>Why do we capitalize the word \xE2\x80\x9CI\xE2\x80\x9D\
+  ? There\xE2\x80\x99s no grammatical reason for doing so, and oddly enough, the majuscule\
+  \ \xE2\x80\x9CI\xE2\x80\x9D appears only in English.</p>"
+id: 44720756
+link: {text: !!python/unicode 'On Language - Me, Myself and I - NYTimes.com', to: !!python/unicode 'http://www.nytimes.com/2008/08/03/magazine/03wwln-guestsafire-t.html'}
+tags: []
+url: !!python/unicode 'http://x.naveen.com/post/44720756/on-language-me-myself-and-i-nytimescom'

@@ -1,0 +1,11 @@
+caption: !!python/str "<p><a href=\"http://blog.zhephree.com/post/9123902900\">zhephree</a>:</p>\n\
+  <blockquote>\n<p>Dear HP,</p>\n<p>I love developing for webOS. It\u2019s quick,\
+  \ it\u2019s intuitive, and it\u2019s great for web devs to get into. The big reason\
+  \ this is is because of the Enyo JavaScript framework used to develop webOS apps.\
+  \ It\u2019s a fantastic framework and is easy to learn.</p>\n<p>I\u2019ve written\
+  \ a great, unique app for the\u2026</p>\n</blockquote>"
+id: 9124584531
+link: {text: !!python/unicode 'Zhephree: An Open Letter to HP: Open Source Enyo.',
+  to: !!python/unicode 'http://blog.zhephree.com/post/9123902900'}
+tags: [!!python/unicode 'enyo', !!python/unicode 'webos']
+url: !!python/unicode 'http://x.naveen.com/post/9124584531/zhephree-an-open-letter-to-hp-open-source-enyo'

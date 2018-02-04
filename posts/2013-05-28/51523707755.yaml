@@ -1,0 +1,11 @@
+caption: '<p>Memorial Day 2013.</p>
+
+  <p>From the observation deck of 30 Rockefeller Plaza.</p>'
+id: 51523707755
+tags: [!!python/unicode 'nyc', !!python/unicode 'memorialday', !!python/unicode 'empirestatebuilding',
+  !!python/unicode 'night']
+url: !!python/unicode 'http://x.naveen.com/post/51523707755/memorial-day-2013-from-the-observation-deck-of'
+video: {embed: !!python/unicode '<iframe width="500" height="281"  id="youtube_iframe"
+    src="https://www.youtube.com/embed/O4u_kzcUPcM?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque"
+    frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>',
+  url: !!python/unicode 'https://www.youtube.com/watch?v=O4u_kzcUPcM'}

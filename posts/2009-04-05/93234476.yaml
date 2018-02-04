@@ -1,0 +1,5 @@
+caption: !!python/str "<p>don\u2019ts</p>"
+id: 93234476
+link: {text: !!python/unicode 'ChadFowler.com 20 Rails Development No-No''s', to: !!python/unicode 'http://chadfowler.com/2009/4/1/20-rails-development-no-no-s'}
+tags: []
+url: !!python/unicode 'http://x.naveen.com/post/93234476/chadfowlercom-20-rails-development-no-nos'

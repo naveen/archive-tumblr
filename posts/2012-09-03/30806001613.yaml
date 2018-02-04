@@ -1,0 +1,6 @@
+caption: !!python/str "<p>43\xB0 41\u2019 55.18\", 7\xB0 7\u2019 19.30\".</p>"
+id: 30806001613
+photos: [./images/2012-09-03/ac6bfab630caacc4495e282a76f3b135b026698274582864d72ad4d98905436b.jpg]
+tags: [!!python/unicode 'france', !!python/unicode 'photography', !!python/unicode 'saint-paul-de-vence',
+  !!python/unicode 'la colombe d''or', !!python/unicode 'me', !!python/unicode 'naveen']
+url: !!python/unicode 'http://x.naveen.com/post/30806001613/43-41-5518-7-7-1930'

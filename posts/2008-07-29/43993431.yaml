@@ -1,0 +1,7 @@
+caption: !!python/str "<p>YSlow analyzes web pages and tells you why they\u2019re\
+  \ slow based on the rules for high performance web sites. YSlow is a Firefox add-on\
+  \ integrated with the popular Firebug web development tool.</p>"
+id: 43993431
+link: {text: !!python/unicode 'YSlow for Firebug', to: !!python/unicode 'http://developer.yahoo.com/yslow/'}
+tags: []
+url: !!python/unicode 'http://x.naveen.com/post/43993431/yslow-for-firebug'

@@ -1,0 +1,6 @@
+caption: <p>defaults write com.apple.iTunes show-store-arrow-links -bool FALSE</p>
+id: 50612506
+link: {text: !!python/unicode 'macosxhints.com - Disable iTunes store arrow links
+    in iTunes 8', to: !!python/unicode 'http://www.macosxhints.com/article.php?story=20080909130752871'}
+tags: []
+url: !!python/unicode 'http://x.naveen.com/post/50612506/macosxhintscom-disable-itunes-store-arrow-links'

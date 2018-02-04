@@ -1,0 +1,11 @@
+caption: !!python/str "<p>Welcome to \u2018LOVE\u2019 Thursdays.</p>\n<p>today is\
+  \ giant drag\u2019s cover of wicked game. i think i might like this version better.</p>\n\
+  <p><a href=\"http://www.youtube.com/watch?v=mOMLU_pLjME\">Wicked Game by Giant Drag</a>\
+  \ (via <a href=\"http://youtube.com/user/DestructoGirl1\">DestructoGirl1</a>)</p>"
+id: 2953926760
+tags: []
+url: !!python/unicode 'http://x.naveen.com/post/2953926760/welcome-to-love-thursdays-today-is-giant'
+video: {embed: !!python/unicode '<iframe width="500" height="375"  id="youtube_iframe"
+    src="https://www.youtube.com/embed/mOMLU_pLjME?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque"
+    frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>',
+  url: !!python/unicode 'https://www.youtube.com/watch?v=mOMLU_pLjME'}

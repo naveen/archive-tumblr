@@ -1,0 +1,9 @@
+caption: !!python/str "<p>4sqtransit is a simple service that delivers real-time public\
+  \ transit information to your phone whenever you check in near a transit stop on\
+  \ Foursquare. When 4sqtransit sees that you\u2019ve checked in near a transit stop,\
+  \ it will send you a text message with live schedule information for that location.\
+  \ (via <a href=\"http://foursquare.com/app/4sqtransit\">foursquare :: Apps :: 4sqtransit</a>)</p>"
+id: 4007202311
+photos: [./images/2011-03-21/57a046fe0953402123bc3a61075fcb665d2098fbf5d38b5b90e7a57e332a8979.png]
+tags: []
+url: !!python/unicode 'http://x.naveen.com/post/4007202311/4sqtransit-is-a-simple-service-that-delivers'

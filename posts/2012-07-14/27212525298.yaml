@@ -1,0 +1,6 @@
+caption: !!python/str "<p>donald judd\u2019s studio. 101 spring street.</p>"
+id: 27212525298
+photos: [./images/2012-07-14/38d00ec71d90200bd173509674b5e1e51e3334dbb6281f5b596e4fb4182cd8f6.jpg]
+tags: [!!python/unicode 'photography', !!python/unicode 'nyc', !!python/unicode 'soho',
+  !!python/unicode 'donaldjudd']
+url: !!python/unicode 'http://x.naveen.com/post/27212525298/donald-judds-studio-101-spring-street'

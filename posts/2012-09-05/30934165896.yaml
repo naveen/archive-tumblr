@@ -1,0 +1,6 @@
+caption: !!python/str "<p>el mediterr\xE1neo</p>"
+id: 30934165896
+photos: [./images/2012-09-05/9be5d75427694a36a329932c1cb7ebbc1603aed019a8a468c560d74e36a2af96.jpg]
+tags: [!!python/unicode 'photography', !!python/unicode 'spain', "mediterr\xE1neo",
+  !!python/unicode 'barcelona']
+url: "http://x.naveen.com/post/30934165896/el-mediterr\xE1neo"

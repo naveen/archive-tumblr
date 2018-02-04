@@ -1,0 +1,9 @@
+caption: !!python/str "<p>i\u2019ve finally edited and put up video from that wonderful\
+  \ evening at caf\xE9 carlyle: woody allen &amp; the eddy davis jazz band.</p>"
+id: 46106669457
+tags: [!!python/unicode 'nyc', !!python/unicode 'woodyallen', !!python/unicode 'cafecarlyle']
+url: !!python/unicode 'http://x.naveen.com/post/46106669457/ive-finally-edited-and-put-up-video-from-that'
+video: {embed: !!python/unicode '<iframe width="500" height="281"  id="youtube_iframe"
+    src="https://www.youtube.com/embed/3BiW5_8fz7A?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque"
+    frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>',
+  url: !!python/unicode 'https://www.youtube.com/watch?v=3BiW5_8fz7A'}

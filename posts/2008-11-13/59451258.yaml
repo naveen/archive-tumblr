@@ -1,0 +1,6 @@
+caption: !!python/str "<p>client library for lightstreamer. useful for pushing data.\
+  \ based on ajax-comet. there\u2019s an iphone app (shareprice) using this to push!</p>"
+id: 59451258
+link: {text: !!python/unicode 'istreamlight - Google Code', to: !!python/unicode 'http://code.google.com/p/istreamlight/'}
+tags: []
+url: !!python/unicode 'http://x.naveen.com/post/59451258/istreamlight-google-code'

@@ -1,0 +1,8 @@
+caption: !!python/str "<p>$cfg[\u2018Servers\u2019][$i]['socket\u2019] = \xE2\x80\x98\
+  /var/lib/mysql/mysql.sock\xE2\x80\x99;<br/>\n$cfg['Servers\u2019][$i]['connect_type\u2019\
+  ] = \xE2\x80\x99socket\xE2\x80\x99;</p>"
+id: 54727788
+link: {text: "Jonathan L\xF3pez \xBB Blog Archive \xBB #2002 - The server is not responding\
+    \ - phpmyadmin Error", to: !!python/unicode 'http://www.preocupao.net/2002-the-server-is-not-responding-phpmyadmin-error/'}
+tags: []
+url: "http://x.naveen.com/post/54727788/jonathan-l\xF3pez-blog-archive-2002-the-server"

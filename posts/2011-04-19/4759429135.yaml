@@ -1,0 +1,12 @@
+caption: !!python/str "<p>Foursquare tips are my fav. I\u2019m not sure if it\u2019\
+  s because most users fall into a certain demo, but I tend find them to be a reliable\
+  \ source for this kind of thing. The eloquently-named \u201CJust the Tips\u201D\
+  \ was thought up primarily for the folowing use case. Someone is at a new restaurant\
+  \ and deciding what to order. They type in the name of the place on their mo-bile\
+  \ and browse recommendations. Right from the browser! No download/account needed.\
+  \ Think of it as a minimalist shortcut. Don\u2019t forget to all the site to grab\
+  \ you location!</p>"
+id: 4759429135
+link: {text: !!python/unicode 'an app on top of our api: Just The Tips', to: !!python/unicode 'https://foursquare.com/app/just_the_tips'}
+tags: []
+url: !!python/unicode 'http://x.naveen.com/post/4759429135/an-app-on-top-of-our-api-just-the-tips'

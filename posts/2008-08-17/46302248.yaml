@@ -1,0 +1,8 @@
+caption: !!python/str "<p>using a cute information leak introduced by CSS. The browser\
+  \ colors visited links differently than non-visited links. All you have to do is\
+  \ load up a whole bunch of URLs for the most popular social\u2026</p>"
+id: 46302248
+link: {text: "Aza\u2019s Thoughts \xBB Vote! How to Detect the Social Sites Your Visitors\
+    \ Use", to: !!python/unicode 'http://www.azarask.in/blog/post/socialhistoryjs/'}
+tags: []
+url: !!python/unicode 'http://x.naveen.com/post/46302248/azas-thoughts-vote-how-to-detect-the-social'

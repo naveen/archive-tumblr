@@ -1,0 +1,57 @@
+caption: !!python/str "<p><strong>The most interesting things I learned at HOPE X.</strong></p>\n\
+  <p><span>I attended 2600\u2019s Hackers on Planet Earth (HOPE) conference this past\
+  \ weekend at the Hotel Pennsylvania. This is my third time going \u2013 and their\
+  \ tenth time running it since 1994. This was an especially great year with a big\
+  \ turnout, not only because it was the tenth anniversary, but also because big names\
+  \ like Ellsberg and Snowden spoke there, the latter via video conference. The biggest\
+  \ talks were so packed that not only was it standing-room-only in the main halls,\
+  \ but the overflow rooms were too. Here are few things I learned.</span></p>\n<p><span>Some\
+  \ halal carts in NYC are said to be fitted with surveillance devices. \u201C<a href=\"\
+  https://twitter.com/jenny8lee/status/490644526579875840\">Twelve halal carts in\
+  \ NYC are said to actually be undercover surveillance apparatus: recording, and\
+  \ tracking wifi/ez pass signals - #hopex</a>\u201D</span></p>\n<p><span>Black-bag\
+  \ cryptanalysis is the name given to burglary via some trojan horse installed on\
+  \ a target device (or a device to which the target is connected). In the case of\
+  \ a mobile phone, it could mean an attack via some <a href=\"http://www.forbes.com/sites/andygreenberg/2013/07/31/researchers-demonstrate-how-to-install-iphone-malware-with-a-malicious-charger/\"\
+  >spoofed charger</a> that is used to get malware onto your phone or your apps. Think\
+  \ about that the next time you plug your iPhone into a hotel\u2019s alarm/speaker\
+  \ kit. This is why with newer releases of iOS, you\u2019ll notice a \u201CTrust\
+  \ the currently connected computer?\u201D alerts every time you plug it into something\
+  \ that is asking for full data.</span></p>\n<p><span>There are numerous backdoors\
+  \ and potential surveillance loopholes on iOS, like the packet scanner, pcapd, which\
+  \ runs by default on all devices. It is said that perhaps these are for diagnostics\
+  \ and trouble-shooting purposes, but the author took a different view and wrote\
+  \ it all up in a <a href=\"http://www.sciencedirect.com/science/article/pii/S1742287614000036\"\
+  >paper</a> and a <a href=\"https://twitter.com/naveen/status/490625984778223617\"\
+  >talk</a>.</span></p>\n<p><span>There was a funny \u201C<a href=\"http://www.wired.com/2014/07/rickroll-innocent-televisions-with-this-google-chromecast-hack/\"\
+  >How to Rickroll the Chromecast</a>\u201D talk. The idea is to deauth the existing\
+  \ WiFi connection on a Chromecast and let it become its own hotspot to which your\
+  \ rogue device sends commands (the, *ahem*, Rickmote Controller). Then have it play\
+  \ Astley\u2019s \u2018Never Gonna Give You Up\u2019 video. The whole prank is a\
+  \ great hat tip to <a href=\"http://archive.woz.org/letters/pirates/24.html\">Wozniak\u2019\
+  s TV jammer</a> box.</span></p>\n<p><span>PGP is still too hard for normal people\
+  \ and probably other types of connections too beyond just \u201Cam I connected via\
+  \ HTTPS?\u201D. When Snowden was trying to communicate with Glenn Greenwald, Glenn\
+  \ couldn\u2019t figure out <a href=\"http://www.wired.com/2014/07/minilock-simple-encryption/\"\
+  >how to read the encrypted email</a>.\_So, of course, <a href=\"http://vimeo.com/56881481\"\
+  >Snowden made a HOWTO video</a>.</span></p>\n<p><span><a href=\"http://en.wikipedia.org/wiki/IMSI-catcher\"\
+  >IMSI-catchers</a> are probably more numerous around the world than one thinks.\
+  \ It allows for a man-in-the-middle attack by essentially acting as a fake mobile\
+  \ tower. It not only allows one to log <a href=\"https://twitter.com/search?q=imsi%20catcher&amp;src=typd\"\
+  >IMSI numbers</a> as they go by (and how many times one is in the area), but force\
+  \ a mobile phone connected to it to make calls without encryption (thereby, allowing\
+  \ one to record the raw audio). In fact, I just realized that the femtocell that\
+  \ I have at home to give me more bars on AT&amp;T has an IMSI whitelist to let only\
+  \ known phones on. It no doubt easily knows everyone else that\u2019s in the room\
+  \ at any time too.</span></p>\n<p><span><a href=\"https://twitter.com/careyshenkman/status/490190984106737664?refsrc=email\"\
+  >We are at an intersection of two languages: legalese and technology</a>. And if\
+  \ you\u2019re going to \u201Cpoke the bear\u201D (either play around in or work\
+  \ in this space), you\u2019d better full well understand both. A lot of the big\
+  \ talks weren\u2019t too technical in nature but actually touch more upon the language\
+  \ and interpretation of law. What is privacy and what things are private and what\
+  \ things aren\u2019t and who should say what is and what isn\u2019t?</span></p>"
+id: 92562716030
+photos: [./images/2014-07-22/cf19acbc223c559113cbda4b7ac5853d6d4e6fb5d04059d10965af95fa6d352a.jpg]
+tags: [!!python/unicode 'blog', !!python/unicode 'photography', !!python/unicode 'hopex',
+  !!python/unicode 'nyc', !!python/unicode 'security', !!python/unicode 'hacking']
+url: !!python/unicode 'http://x.naveen.com/post/92562716030/hopex'

@@ -1,0 +1,7 @@
+caption: !!python/str "<p>a time-saving set that i\u2019ve gotten used to from the\
+  \ solaris/linux days</p>"
+id: 48763928
+link: {text: !!python/unicode 'proctools: (pgrep, pkill, pfind) for OpenBSD and Darwin',
+  to: !!python/unicode 'http://proctools.sourceforge.net/'}
+tags: []
+url: !!python/unicode 'http://x.naveen.com/post/48763928/proctools-pgrep-pkill-pfind-for-openbsd-and'

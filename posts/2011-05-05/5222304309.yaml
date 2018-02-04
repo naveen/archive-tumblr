@@ -1,0 +1,9 @@
+caption: !!python/str "<p>\u201Csecret foursquare party\u201D</p>\n<p>you know how\
+  \ we do!</p>\n<p>(foursquare mentioned on Happy Endings)</p>"
+id: 5222304309
+tags: []
+url: !!python/unicode 'http://x.naveen.com/post/5222304309/secret-foursquare-party-you-know-how-we-do'
+video: {embed: !!python/unicode '<iframe width="500" height="281"  id="youtube_iframe"
+    src="https://www.youtube.com/embed/d7khx4IOhDg?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque"
+    frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>',
+  url: !!python/unicode 'https://www.youtube.com/watch?v=d7khx4IOhDg'}

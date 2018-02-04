@@ -1,0 +1,7 @@
+caption: <p>The MySQL slow query log parser converts your slow query logs in to a
+  more usable format. It also adds some interesting information like median and average
+  times.</p>
+id: 128779450
+link: {text: !!python/unicode 'mysql-slow-query-log-parser - Google Code', to: !!python/unicode 'http://code.google.com/p/mysql-slow-query-log-parser/'}
+tags: []
+url: !!python/unicode 'http://x.naveen.com/post/128779450/mysql-slow-query-log-parser-google-code'

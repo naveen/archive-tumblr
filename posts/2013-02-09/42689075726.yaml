@@ -1,0 +1,8 @@
+caption: !!python/str "<p>a hike up to (and behind) the hollywood sign in los angeles.</p>\n\
+  <p>when it was first put up, it read \u201CHOLLYWOODLAND\u201D \u2013 there to advertise\
+  \ a housing development in the hills.</p>"
+id: 42689075726
+photos: [./images/2013-02-09/f1846c69ae9506e4ad3c5e86e38bdb7d2b184ad250d0fdc97065983f6081fc40.jpg,
+  ./images/2013-02-09/b9a63d7a3a684a75c97db9b3469f09fd59e4385f43df24361ca33a0e9702dd7c.jpg]
+tags: [!!python/unicode 'photography', !!python/unicode 'losangeles', !!python/unicode 'hollywood']
+url: !!python/unicode 'http://x.naveen.com/post/42689075726/a-hike-up-to-and-behind-the-hollywood-sign-in'

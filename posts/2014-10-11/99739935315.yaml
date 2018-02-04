@@ -1,0 +1,47 @@
+caption: !!python/str "<p><strong>Danger!</strong><br/><br/> I loved reading \u201C\
+  <a href=\"https://medium.com/tech-talk/d823af31f7c\">The future that everyone forgot</a>\u201D\
+  \ by Chris de Salvo on his time working on phones at Danger, Inc.<br/><br/> The\
+  \ Danger devices were well ahead of their time: they supported features like cloud\
+  \ backup, web apps, Unicode, tons of input styles (including a D-pad for gaming),\
+  \ multitasking and inter-app communication. The other phones out at the time were\
+  \ all, well, not very memorable.<br/><br/> The essay was a full-on blast-from-the-past\
+  \ for me, because when I first started working on mobile, I started by creating\
+  \ things for devices like the Sidekick/Hiptop, which Danger produced.<br/><br/>\
+  \ Nearly eleven years ago, when I started work at Sony, I worked on building systems\
+  \ to bring music to mobiles. One was a platform to transcode and make content ready\
+  \ across the various mobile platforms and carriers. The other was a mobile music\
+  \ store that allowed people to buy music and pictures for their phones.<br/><br/>\
+  \ Because there were so many different handsets and operating systems and languages\
+  \ and storage and music file format constraints \u2013 as well as differences in\
+  \ carrier settings on each phone, we had to create tools to efficiently deliver\
+  \ content on the fly.<br/><br/> We engineered a transcoder for the many types of\
+  \ audio formats and lengths, all a collection of strange letters: QCELP, AMR, MP3,\
+  \ &amp;c.<br/><br/> The Danger device stood out in my mind above all the others,\
+  \ because you could tell a lot of care and thought had gone into building it. They\
+  \ had spent a lot of time making sure that even ringtones would sound good and be\
+  \ ahead of quality on other devices. The playback on the device allowed one to perfectly\
+  \ loop each ringtone without clicks or hiccups in between each loop. Knowing this,\
+  \ we spent a lot of time on our team to cut musically perfect loops just for the\
+  \ Sidekick. And, oh, did it ever sound good!<br/><br/> We also engineered a custom\
+  \ renderer for the many types of markup these phones would accept: WAP, XHTML, proprietary\
+  \ DSLs like Vodafone\u2019s, and so on. Where the phone and the browser could handle\
+  \ it (and where we could securely build in payments on mobile web), we had a mobile\
+  \ web presence. But on phones that didn\u2019t have this capability (or where we\
+  \ wanted to further lock down the payment flow), we built a custom browser that\
+  \ would take our XHTML markup and our custom tags and show that content in a native\
+  \ container instead.<br/><br/> The bonus was that, this way, we had placement in\
+  \ the app store and an icon on the home screen too. We\u2019d be able to mark up\
+  \ the content any way we wanted and push layout and links and branding changes without\
+  \ having to release a new native version of the apps. (It\u2019s a lot like how\
+  \ the iTunes Music Store and App Store are engineered \u2013 custom markup rendered\
+  \ in a native container).<br/><br/> It seems we are bound to reinvent the past.<br/><br/>\
+  \ Side story: One of Danger\u2019s founders was Andy Rubin, who was previously at\
+  \ Apple and then Apple-spinoff General Magic - and after Danger, went to work on\
+  \ Android which eventually went to Google. I love how these dots connect, as Jobs\
+  \ says \u201Cyou can\u2019t connect the dots looking forward; you can only connect\
+  \ them looking backwards.\u201D</p>"
+id: 99739935315
+photos: [./images/2014-10-11/f03fe6aed59be75026f50a2d9c8c2331b52c40f505b1177d69d755a406073327.jpg]
+tags: [!!python/unicode 'photography', !!python/unicode 'blog', !!python/unicode 'mobile',
+  !!python/unicode 'danger', !!python/unicode 'sony', !!python/unicode 'history']
+url: !!python/unicode 'http://x.naveen.com/post/99739935315/danger-i-loved-reading-the-future-that-everyone'

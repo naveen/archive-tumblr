@@ -1,0 +1,9 @@
+caption: !!python/str "<p>champs-\xE9lys\xE9es.</p>\n<p>there\u2019s something about\
+  \ this photo and many others one can take of the city that, if not for the style\
+  \ of the cars on the street, is timeless. and i think that\u2019s the real beauty\
+  \ of paris.</p>"
+id: 34313211647
+photos: [./images/2012-10-25/525f20062f9288c03267e7ff4de2dff7d01b15b40d9b3be759cbbd18b9d7cefa.jpg]
+tags: [!!python/unicode 'photography', !!python/unicode 'paris', "champs-\xE9lys\xE9\
+    es"]
+url: "http://x.naveen.com/post/34313211647/champs-\xE9lys\xE9es-theres-something-about-this"

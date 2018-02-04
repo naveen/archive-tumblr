@@ -1,0 +1,10 @@
+caption: !!python/str "<p>can\u2019t. stop. laughing.</p>\n<p>COMPUTEX: Asus unveils\
+  \ Padfone smartphone-tablet combo (by <a href=\"http://www.youtube.com/watch?v=Z2ANnpHnUrc\"\
+  >networkworld</a>)</p>"
+id: 6115325174
+tags: []
+url: !!python/unicode 'http://x.naveen.com/post/6115325174/cant-stop-laughing-computex-asus-unveils'
+video: {embed: !!python/unicode '<iframe width="500" height="281"  id="youtube_iframe"
+    src="https://www.youtube.com/embed/Z2ANnpHnUrc?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque"
+    frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>',
+  url: !!python/unicode 'https://www.youtube.com/watch?v=Z2ANnpHnUrc'}

@@ -1,0 +1,8 @@
+caption: !!python/str "<p>To install unrecognized driver: Start-Programs-Accessories-System\
+  \ Tools-System Information. \u201CComponents\u201D-\u201CProblem Devices\u201D.\
+  \ Make note of PNP Device ID line of the entry. It will contain Vendor number\u2026\
+  </p>"
+id: 51139580
+link: {text: !!python/unicode 'PCI Vendor and Device Lists', to: !!python/unicode 'http://www.pcidatabase.com/'}
+tags: []
+url: !!python/unicode 'http://x.naveen.com/post/51139580/pci-vendor-and-device-lists'

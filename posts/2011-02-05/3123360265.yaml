@@ -1,0 +1,11 @@
+caption: !!python/str "<p>someone just reminded me of a mixtape i made long ago on\
+  \ my last day at sony: \u201Cexit music (for a job)\u201D.</p>\n<p>this was one\
+  \ of the songs on it.</p>\n<p><a href=\"http://open.spotify.com/user/naveenium/playlist/7dvH3cHlmuDM9LtRAjK018\"\
+  >exit music (for a job).</a></p>"
+id: 3123360265
+tags: []
+url: !!python/unicode 'http://x.naveen.com/post/3123360265/someone-just-reminded-me-of-a-mixtape-i-made-long'
+video: {embed: !!python/unicode '<iframe width="500" height="281"  id="youtube_iframe"
+    src="https://www.youtube.com/embed/HP-pppwvIgc?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque"
+    frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>',
+  url: !!python/unicode 'https://www.youtube.com/watch?v=HP-pppwvIgc'}

@@ -1,0 +1,10 @@
+caption: !!python/str "<p>I-DARE-YOU-TO-PLAY-THIS-AND\u2013SIT-STILL-IN-YOUR-CHAIR\u2013\
+  TUESDAYS PRESENTS:</p>\n<p><a href=\"http://www.youtube.com/watch?v=Ylu0ybj7DIg\"\
+  >Simian Mobile Disco - Audacity of Huge</a></p>"
+id: 3723809917
+tags: []
+url: !!python/unicode 'http://x.naveen.com/post/3723809917/i-dare-you-to-play-this-andsit-still-in-your-chair'
+video: {embed: !!python/unicode '<iframe width="500" height="281"  id="youtube_iframe"
+    src="https://www.youtube.com/embed/Ylu0ybj7DIg?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque"
+    frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>',
+  url: !!python/unicode 'https://www.youtube.com/watch?v=Ylu0ybj7DIg'}

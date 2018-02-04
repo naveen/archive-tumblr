@@ -1,0 +1,7 @@
+caption: !!python/str "<p>provides a link to a song\u2019s perma page where the other\
+  \ person can listen. no more having to upload a song anytime i want to share something\
+  \ quick with a friend. great design, to top it off.</p>"
+id: 47969048
+link: {text: !!python/unicode 'TinySong', to: !!python/unicode 'http://tinysong.com/'}
+tags: []
+url: !!python/unicode 'http://x.naveen.com/post/47969048/tinysong'

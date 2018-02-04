@@ -1,0 +1,10 @@
+caption: !!python/str "<p>what happens when we mix latest info streams with \u201C\
+  traditional\u201D devices that didn\u2019t use to carry them</p>\n<p>some foursquare\
+  \ mentions</p>\n<p><a href=\"http://vimeo.com/16423199\">Media surfaces: Incidental\
+  \ Media</a> (by <a href=\"http://vimeo.com/dentsulondon\">Dentsu London</a>)</p>"
+id: 3002205878
+tags: []
+url: !!python/unicode 'http://x.naveen.com/post/3002205878/what-happens-when-we-mix-latest-info-streams-with'
+video: {embed: !!python/unicode '<iframe src="https://player.vimeo.com/video/16423199?title=0&byline=0&portrait=0"
+    width="500" height="281" frameborder="0" title="Media surfaces: Incidental Media"
+    webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>', url: !!python/unicode 'https://vimeo.com/16423199'}

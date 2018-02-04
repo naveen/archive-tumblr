@@ -1,0 +1,12 @@
+caption: !!python/str "<p>night at the museum \u2013 <a href=\"http://www.hackthemet.com/\"\
+  >#hackthemet</a> with <a href=\"http://nickgray.net/\">nick</a> and <a href=\"http://www.matthewkochman.com/\"\
+  >matt</a>.</p>"
+id: 49141934757
+photos: [./images/2013-04-29/19563f59e8d1a4c4699156fecdcded5f2a30f9c26f17647482a356b9668d73be.jpg,
+  ./images/2013-04-29/350002087a276880c6ce8279b9f18cd51b461e2938d7ad204645231fbeb9c060.jpg,
+  ./images/2013-04-29/08c536e97597d6524bb04d652831d5aa79861de96caaf67d6c80d349e9aec66e.jpg,
+  ./images/2013-04-29/01b25ebf4925815c8287a5bfe4d9014a77c973469b69683cb64067851ba5e295.jpg,
+  ./images/2013-04-29/e697e64a27cd42320272799bfff3b6e62d46549e04b1bbb98f57abb2bc446249.jpg]
+tags: [!!python/unicode 'photography', !!python/unicode 'nyc', !!python/unicode 'hackthemet',
+  !!python/unicode 'themet', !!python/unicode 'metropolitanmuseumofart']
+url: !!python/unicode 'http://x.naveen.com/post/49141934757/night-at-the-museum-hackthemet-with-nick-and'

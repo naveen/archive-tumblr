@@ -1,0 +1,11 @@
+caption: !!python/str "<p>turn the bass up in those headphones you \u2018nah i\u2019\
+  m sayin</p>\n<p>one of my favorite beats ever</p>\n<p><a href=\"http://www.youtube.com/watch?v=5PEAvQr4mvo\"\
+  >Basement Jaxx - Stop 4 Love</a> (via <a href=\"http://youtube.com/user/sealwell\"\
+  >sealwell</a>)</p>"
+id: 2930190526
+tags: []
+url: !!python/unicode 'http://x.naveen.com/post/2930190526/turn-the-bass-up-in-those-headphones-you-nah-im'
+video: {embed: !!python/unicode '<iframe width="500" height="375"  id="youtube_iframe"
+    src="https://www.youtube.com/embed/5PEAvQr4mvo?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque"
+    frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>',
+  url: !!python/unicode 'https://www.youtube.com/watch?v=5PEAvQr4mvo'}

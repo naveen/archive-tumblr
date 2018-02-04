@@ -1,0 +1,5 @@
+caption: !!python/str "<p>c\xF3rdoba</p>"
+id: 31579719358
+photos: [./images/2012-09-15/7a6616ced07fed0b753f96ed3d3b1131a3db16a976298624c5bfbac89115d774.jpg]
+tags: [!!python/unicode 'photography', "c\xF3rdoba", !!python/unicode 'spain']
+url: "http://x.naveen.com/post/31579719358/c\xF3rdoba"

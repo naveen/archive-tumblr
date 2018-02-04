@@ -1,0 +1,9 @@
+caption: !!python/str "<p>From a 1982 book <a href=\"http://www.nytimes.com/1982/05/30/books/the-most-beautiful-city-in-the-world.html\"\
+  >review</a> in the Times on Venice: \u201Cundoubtedly the most beautiful city built\
+  \ by man\u201D.</p>\n<p>June 2013.</p>"
+id: 57068256990
+photos: [./images/2013-08-01/62b019df34524db3b190b830727f84a49db7f645df93f3272869afb0e0b4add7.jpg,
+  ./images/2013-08-01/ee3e05edfdf1f177c61c5c74690d62f30fcf7a12738fd1c923b1783b5687bdfd.jpg,
+  ./images/2013-08-01/798e3884032961bcfd4d643ea3057ff8f5bb460cc63fff215a5b2fb7edca9f9a.jpg]
+tags: [!!python/unicode 'photography', !!python/unicode 'italy', !!python/unicode 'venice']
+url: !!python/unicode 'http://x.naveen.com/post/57068256990/from-a-1982-book-review-in-the-times-on-venice'

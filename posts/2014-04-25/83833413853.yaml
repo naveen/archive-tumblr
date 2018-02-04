@@ -1,0 +1,49 @@
+caption: !!python/str "<p><strong>Write-only interfaces. / A write-only interface.</strong></p>\n\
+  <p><span>A write-only interface, which I totally just now made up, is one where\
+  \ the primary (and often the only action you can take) is one where you can \u201C\
+  add\u201D to a collection but not view what\u2019s already in said collection. It\u2019\
+  s an app with a compose form, but no way to look at all the other things you put\
+  \ in there. If you wanted to get all UNIX about it, it\u2019s appending &gt;&gt;\
+  \ to a resource. So then you\u2019d have to use another app or service to get back\
+  \ at the data.</span></p>\n<p><span>Why would one want to do this? For starters,\
+  \ especially on mobile:</span></p>\n<blockquote>\n<p><span>\u2022 to simplify;</span><br/><span>\u2022\
+  \ to save bandwidth/load time;</span><br/><span>\u2022 to head straight to the action\
+  \ that was top-of-mind.</span></p>\n</blockquote>\n<p><span>Recently, I\u2019ve\
+  \ been curious about this type of interaction \u2013 an interface where the only\
+  \ action a user can take is to contribute/write/add to whichever collection of objects\
+  \ to which she\u2019s authenticated.</span></p>\n<p><span>An example of such a write-only\
+  \ interface that I use multiple times a day: <a href=\"https://itunes.apple.com/us/app/jotana/id597292222?mt=8\"\
+  >Jotana</a>. It\u2019s a compose view that sits on top of Asana. It merely allows\
+  \ you to add new items to your Asana list for future review. I find it saves me\
+  \ a lot of time, especially during a conversation where I have to quickly jot down\
+  \ notes, but I don\u2019t want to mess with too many interactions. Sometimes, I\
+  \ can be so distracted listening to a conversation that by the time I launch a note-taking\
+  \ app, I\u2019ve already forgotten what I wanted to put in there.</span></p>\n<p><span>After\
+  \ using Jotana, I find it hard to just swap back to a more traditional-looking notepad\
+  \ application. Why wouldn\u2019t one want to take notes and immediately add it to\
+  \ their workflow (in this case, mine happens to be Asana, both in terms of personal\
+  \ work as well as team work). If your thinking is mainly around \u201Cadding\u201D\
+  \ to your list, why in the world do you even want to see what else is on that list\
+  \ to begin with, especially on a resource-expensive launch? (As far as I can tell,\
+  \ Asana.app is some web/native hybrid, so performance isn\u2019t always as great\
+  \ as a fully-native system \u2013 and additionally, the app auto-updates itself\
+  \ way too frequently on launch. This is the reason I sought out an app like Jotana\
+  \ in the first place.)</span></p>\n<p><span>In a world where it\u2019s so simple\
+  \ and cheap to create and put an app in the app store(s) and where the OS and interface\
+  \ (Spotlight, &amp;c.) make it completely easy to have multiple apps for a single\
+  \ product, why not an app that only allows <em>write-only</em>\_as an action? Maybe\
+  \ this is only for people that really understand a system, though, and want such\
+  \ granular transaction control. As a casual user, you probably aren\u2019t thinking\
+  \ at a transaction level and you aren\u2019t doing those actions enough times a\
+  \ day. And, as an app developer, you don\u2019t want to split mindshare between\
+  \ too many icons/downloads.</span></p>\n<p><span>So, perhaps experts only need apply.</span></p>\n\
+  <p><span>For frequent interactions and in the interest of simplicity, I wonder if\
+  \ I need to see all emails before I send one? All Asanas before I create one (see:\
+  \ Jotana)? All transactions before I send money (see: Square Cash)? All check-ins\
+  \ before I make one (see: Checkie)?</span></p>\n<p><span>All photos before I take\
+  \ one?\u2013\u2013Wait.\u2013\u2013This is exactly how Camera.app works.</span></p>"
+id: 83833413853
+photos: [./images/2014-04-25/6363934b109cb9fc1f4e6b4d8afbc354131e6b3fa30b6134969329cbdbd2833d.jpg]
+tags: [!!python/unicode 'photography', !!python/unicode 'blog', !!python/unicode 'write-only',
+  !!python/unicode 'writeonly']
+url: !!python/unicode 'http://x.naveen.com/post/83833413853/write-only-interfaces'

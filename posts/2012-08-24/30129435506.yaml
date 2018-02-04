@@ -1,0 +1,5 @@
+caption: !!python/str "<p>z\xFCrich.</p>"
+id: 30129435506
+photos: [./images/2012-08-24/6c25ce4fd020bd65db5b204468b6139639e32c6ef6f7d973bb0a06e7feba5008.jpg]
+tags: [!!python/unicode 'photography', !!python/unicode 'zurich', !!python/unicode 'switzerland']
+url: "http://x.naveen.com/post/30129435506/z\xFCrich"

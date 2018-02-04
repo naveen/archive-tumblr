@@ -1,0 +1,10 @@
+caption: !!python/str "<p>the most incredible music video i\u2019ve ever seen in my\
+  \ life.</p>\n<p>They See Me Rollin\u2019 (Original) (by <a href=\"http://www.youtube.com/watch?v=FK_CKtYCRIc\"\
+  >SamRS94</a>)</p>"
+id: 5184325353
+tags: []
+url: !!python/unicode 'http://x.naveen.com/post/5184325353/the-most-incredible-music-video-ive-ever-seen-in'
+video: {embed: !!python/unicode '<iframe width="500" height="375"  id="youtube_iframe"
+    src="https://www.youtube.com/embed/FK_CKtYCRIc?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque"
+    frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>',
+  url: !!python/unicode 'https://www.youtube.com/watch?v=FK_CKtYCRIc'}

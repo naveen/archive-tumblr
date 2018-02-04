@@ -1,0 +1,7 @@
+caption: <p>New York rooftops in summer.</p>
+id: 123818984445
+photos: [./images/2015-07-11/f23ad0b59967e29f698d08feac8226dc6a62ba5514b6147a167937032357a4f0.jpg,
+  ./images/2015-07-11/cba566f2cd7a81624785c9e055b49477aa9b84e91d36089ec1c7263f06ee088e.jpg]
+tags: [!!python/unicode 'photography', !!python/unicode 'nyc', !!python/unicode 'newyorkcity',
+  !!python/unicode 'summer']
+url: !!python/unicode 'http://x.naveen.com/post/123818984445/new-york-rooftops-in-summer'

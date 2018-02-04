@@ -1,0 +1,54 @@
+caption: !!python/str "<p><strong>a personal API</strong></p>\n<p>i\u2019ve long been\
+  \ a follower of the quantified self \u2013 even back before we started calling it\
+  \ that and started building all this software behind it. when i was in graduate\
+  \ school, i remember thinking i wasn\u2019t reading enough. so i made an effort\
+  \ to cut through many must-read books (75). in two years of school, i tracked (microsoft\
+  \ excel, as you do) each page read (21,278) and the number of days (622) and kept\
+  \ a running log of pages-per-day (34.21). i got my goal of 10,000 pages a year and,\
+  \ bonus!, i got through a few classics that still continue to be my favorite stories.</p>\n\
+  <p>more recently, as i\u2019ve gotten older, i started getting more interested in\
+  \ tracking my health and fitness. when we are young and in our twenties, we can\
+  \ get away with pretty much anything. but like everyone else, the older i get, the\
+  \ more i realize i only have one body \u2013 and that i should try to keep it tuned\
+  \ to get the most performance out of it. i started at first by writing my workouts\
+  \ down, and then trying out all types of digital trackers. one favorite tool that\
+  \ came out of this period was the withings scale: it allowed me to periodically\
+  \ keep track of trends in my weight and body composition and allowed me to think\
+  \ about big trends in my life that affected performance.</p>\n<p>so far, i\u2019\
+  ve used various tools and hacks over the years to collect this data. but i\u2019\
+  ve long wanted it all in one place \u2013 or, at least, something to give me the\
+  \ illusion of \u2018one place\u2019. a dataset that is a single repository and view\
+  \ of my body as opposed to various silos of data scattered across different services\
+  \ and devices. of course, this requires that we all play along in some way and make\
+  \ our systems open and provide APIs for getting at this data. not only are we still\
+  \ in the early stages of building such self awareness software, but so too are we\
+  \ still some ways from designing the right data sets and figuring out ways to expose\
+  \ them to our users. i believe the openness of the latter is just as important as\
+  \ the first point and i think we still have some ways to go in that regard. (for\
+  \ example, on many of the services i\u2019ve tried recently, i\u2019ve had to cobble\
+  \ together and reverse engineer things to pull my own raw data out in some normalized\
+  \ form).</p>\n<p>as a part of all these experiences, i\u2019ve always been curious\
+  \ about the idea of a personal API \u2013 a 'quantified naveen\u2019 \u2013 that\
+  \ would expose all of the information i knew about myself in a clean, open document.\
+  \ i think i\u2019ve wanted to do this because:</p>\n<p>1) i wished to play with\
+  \ the idea of a 'virtual me\u2019 that\u2019s entirely inside the machine;</p>\n\
+  <p>2) the idea of a 'published\u2019, always-public me has intriguied me (we share\
+  \ our tweets and checkins and photos and music habits to a wide audience, so why\
+  \ not other types of behavior and habits as well?);</p>\n<p>3) and i\u2019ve been\
+  \ curious what one might be able to do with such a resource: will any of it be useful\
+  \ for research? might one create apps on top of me? or perhaps draw insights that\
+  \ i haven\u2019t yet been able to see myself?</p>\n<p>as a way to start this off,\
+  \ i\u2019ve put up an API of such personal data. i\u2019m calling it <a href=\"\
+  http://api.naveen.com/\">api.naveen</a>. it currently exposes sleep, weight, steps,\
+  \ fuel/activity and checkins. i aim to keep adding to this list with a few more\
+  \ interesting ones as i think of them.</p>\n<p>have a look: <a href=\"http://api.naveen.com/\"\
+  >http://api.naveen.com/</a></p>\n<p>drop me a note and let me know what else you\u2019\
+  d like to see and what you end up doing with this. i welcome the start of a good\
+  \ discussion.</p>\n<p>special thanks to: <a href=\"http://www.ericgfriedman.com/\"\
+  >eric</a>, for coining the term 'personal API\u2019; <a href=\"http://sameerk.tumblr.com/\"\
+  >sameer</a>, for help with the data layer.</p>"
+id: 51808692792
+photos: [./images/2013-05-31/a29138bc0a5a9817a89c75523d62c1f273155aa42c8e0528ab7e7801aef66f2a.jpg]
+tags: [!!python/unicode 'photography', !!python/unicode 'writing', !!python/unicode 'naveen',
+  !!python/unicode 'me', !!python/unicode 'quantifiedself', !!python/unicode 'api.naveen']
+url: !!python/unicode 'http://x.naveen.com/post/51808692792/a-personal-api'

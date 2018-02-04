@@ -1,0 +1,12 @@
+caption: !!python/str "<p>this sunday.</p>\n<p>i\u2019m playing in a kinect ping pong\
+  \ tournament with team foursquare.</p>\n<p>it will be unlike anything you\u2019\
+  ve ever seen.</p>\n<p><a href=\"http://backspinnyc.com\">http://backspinnyc.com</a></p>\n\
+  <p><a href=\"http://www.youtube.com/watch?v=Fcv9wsp--TA\">Get Pumped! Backspin Trailer\
+  \ presented by Solvate.com</a></p>"
+id: 3485237963
+tags: []
+url: !!python/unicode 'http://x.naveen.com/post/3485237963/this-sunday-im-playing-in-a-kinect-ping-pong'
+video: {embed: !!python/unicode '<iframe width="500" height="281"  id="youtube_iframe"
+    src="https://www.youtube.com/embed/Fcv9wsp--TA?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque"
+    frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>',
+  url: !!python/unicode 'https://www.youtube.com/watch?v=Fcv9wsp--TA'}

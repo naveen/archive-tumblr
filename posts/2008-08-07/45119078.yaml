@@ -1,0 +1,7 @@
+caption: !!python/str "<p>\u201CThe XSL Cache extension is a modification of PHP\u2019\
+  s standard XSL extension that caches the parsed XSL stylesheet representation between\
+  \ sessions for 2.5x boost in performance for sites that\u2026</p>"
+id: 45119078
+link: {text: !!python/unicode 'XSL Cache - Trac', to: !!python/unicode 'http://code.nytimes.com/projects/xslcache'}
+tags: []
+url: !!python/unicode 'http://x.naveen.com/post/45119078/xsl-cache-trac'

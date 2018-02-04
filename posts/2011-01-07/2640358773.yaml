@@ -1,0 +1,11 @@
+caption: '<p><a href="http://www.youtube.com/watch?v=rX0F3kY3uxU&amp;feature=player_embedded">Michael
+  Caine does Michael Caine</a> (via <a href="http://youtube.com/user/jkottke">jkottke</a>)</p>
+
+  <p>soo good</p>'
+id: 2640358773
+tags: []
+url: !!python/unicode 'http://x.naveen.com/post/2640358773/michael-caine-does-michael-caine-via-jkottke'
+video: {embed: !!python/unicode '<iframe width="500" height="281"  id="youtube_iframe"
+    src="https://www.youtube.com/embed/rX0F3kY3uxU?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque"
+    frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>',
+  url: !!python/unicode 'https://www.youtube.com/watch?v=rX0F3kY3uxU'}

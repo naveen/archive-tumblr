@@ -1,0 +1,60 @@
+caption: !!python/str "<p><strong>Notifications as the app itself</strong></p>\n<p><span>I\
+  \ gave a fast quick talk (ten minutes to write, ten minutes to give) at <a href=\"\
+  http://inboxawesome.splashthat.com/\">InboxAwesome</a> yesterday in DUMBO.</span></p>\n\
+  <p><span>The conference was all about different ways we are designing and looking\
+  \ at our inboxes.</span></p>\n<p><span>A lot of the conversation took to how our\
+  \ inboxes and message queues mostly have started resembling to-do lists, whether\
+  \ we want them to or not. And even if that phrasing wasn\u2019t used, the interfaces\
+  \ certainly make them seem that way.</span></p>\n<p><span>I was tasked with speaking\
+  \ about notifications: that now, in a mobile world, notifications are the inbox.</span></p>\n\
+  <p><span>We used to get app alerts and newsletters and weather alerts in our email\
+  \ inbox. Now, those things live on in lighter form in our mobile notification trays.</span></p>\n\
+  <p><span>Towards the end, I got asked a question that asked me to compare visibility\
+  \ of email alerts versus notifications. I had to think about it for a while, but\
+  \ I think it\u2019s obviously why (at least for now) notifications are stronger.\
+  \ The strengths here over email:</span></p>\n<blockquote>\n<p><span>\u2022 only\
+  \ applications can author notifs, unlike in email where some are authored by a single\
+  \ person, others by apps, still others by groups or people you don\u2019t know and\
+  \ with whom you have a more informal relationship;<br/></span>\u2022 you don\u2019\
+  t get \u201Cspam\u201D notifications in the same way \u2013 that is, you don\u2019\
+  t get notifications from apps you don\u2019t even have as you would with email where\
+  \ anyone who knows your address can send you something. additionally, if an app\
+  \ misbehaves, you can block notifs or delete it altogether. try that in email sometime:\
+  \ \u201Cunsubscribe\u201D is more of a soft contract;<br/>\u2022 it\u2019s easier\
+  \ to triage and easier to control settings and make sure only certain notifications\
+  \ show up (and in what position and in what style). The best email has so far is\
+  \ Gmail\u2019s \u201CImportant/Social/Promotions\u201D. Filters solve some of this,\
+  \ but they don\u2019t allow you to do things like play-alert versus show-subject\
+  \ versus show-in-full, &amp;c.</p>\n</blockquote>\n<p><span>All that led me to getting\
+  \ around to this idea that very soon, if we\u2019re not already there, Notifications\
+  \ are becoming the app itself.</span></p>\n<p><span>A couple of great pieces have\
+  \ been written on this in the last couple of weeks \u2013 first on the idea of \u201C\
+  <a href=\"http://techcrunch.com/2014/05/15/foursquares-swarm-and-the-rise-of-the-invisible-app/\"\
+  >invisible apps</a>\u201D wherein you needn\u2019t even open an app to get value\
+  \ out of it. The other, the idea exploring <a href=\"http://www.wired.com/2014/06/smartphone-notifications/\"\
+  >notifications as an interface</a> by <a href=\"https://twitter.com/mat\">@mat</a>.\
+  \ I don\u2019t mean to repeat their points. But while talking about all this yesterday,\
+  \ I realized something more.</span></p>\n<p><span>When you combine the idea of iOS\
+  \ 8 improving on notifications with actions like \u2018reply\u2019, and notifications\
+  \ turning more into apps, and perhaps when you put that together with a new easier-to-get-going\
+  \ programming language in Swift, a really amazing thing happens.</span></p>\n<p><span>For\
+  \ very little work (even less than was needed before), one, especially one who\u2019\
+  s not even a full-on developer, can create incredible apps and experiences using\
+  \ fewer pieces of infrastructure and code.</span></p>\n<p><span>For instance, I\
+  \ can put together a Swift app that serves as a shell to get the user to allow me\
+  \ Facebook or Twitter permission and notification permission and background location\
+  \ permission. Then, after the first time to ask for permission, the user never has\
+  \ to launch the app. I can program everything else on my backend stack, made easier\
+  \ with things like Heroku and something like Parse\u2019s ability to easily set\
+  \ up push notifications.</span></p>\n<p><span>Essentially then the only reason you\u2019\
+  re putting together an app is this: to get placement in the app store and to get\
+  \ the user\u2019s FB/Twitter, location and notifications permission. It allows you\
+  \ to leave all logic on the server \u2013 thereby allowing you to easily deliver\
+  \ the same message on iOS, Android, email, web, &amp;c.</span></p>\n<p><span>Beyond\
+  \ that, for some types of products, the app disappears. The notification becomes\
+  \ the app itself.</span></p>"
+id: 88694239280
+photos: [./images/2014-06-13/48a2a1ccbfd01728a8080f824486f583537d2aba8d803777772ddd0763dbf0ce.jpg]
+tags: [!!python/unicode 'photography', !!python/unicode 'blog', !!python/unicode 'notifications',
+  !!python/unicode 'programming', !!python/unicode 'mobile']
+url: !!python/unicode 'http://x.naveen.com/post/88694239280/notifications-as-the-app-itself'

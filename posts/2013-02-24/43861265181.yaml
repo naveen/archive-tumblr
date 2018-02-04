@@ -1,0 +1,12 @@
+caption: '<p>a walk down greene street.</p>
+
+  <p><span>a rainy new york, a new york at night, a new york with not many people
+  around is a new york that loves to be photographed.</span></p>'
+id: 43861265181
+photos: [./images/2013-02-24/9812d90619369651c5aa26e4d1e3b9b02eac19198285a06e643536ee65911baa.jpg,
+  ./images/2013-02-24/2967247593c30d7638da1fa4a8d663d9399fb5613c595eeb310c87be183e0cdf.jpg,
+  ./images/2013-02-24/5e4542a2bce151cc5eef6941e7ea2f526041c1cd299b6eeb0deebfed6e635eb4.jpg,
+  ./images/2013-02-24/894a4c17347f9de5f59ca580eeb9b9589a3439abcdcd0f4b761b1ac7a61e49b5.jpg]
+tags: [!!python/unicode 'photography', !!python/unicode 'greenestreet', !!python/unicode 'nyc',
+  !!python/unicode 'soho']
+url: !!python/unicode 'http://x.naveen.com/post/43861265181/a-walk-down-greene-street-a-rainy-new-york-a'

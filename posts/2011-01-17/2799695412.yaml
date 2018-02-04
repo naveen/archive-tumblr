@@ -1,0 +1,13 @@
+caption: !!python/str "<p>sparked by the \u2018tokyo\u2019 video, i\u2019ve been in\
+  \ a cornelius mood all day today</p>\n<p><a href=\"http://www.youtube.com/watch?v=_s_30x_d5bo\"\
+  >Cornelius - Star fruits surf rider</a> (via <a href=\"http://youtube.com/user/pizzicatomania\"\
+  >pizzicatomania</a>)</p>"
+id: 2799695412
+tags: []
+url: !!python/unicode 'http://x.naveen.com/post/2799695412/sparked-by-the-tokyo-video-ive-been-in-a'
+video: {embed: !!python/unicode '<object width="500" height="405"><param name="movie"
+    value="http://www.youtube.com/v/_s_30x_d5bo?fs=1"></param><param name="allowFullScreen"
+    value="true"></param><param name="allowscriptaccess" value="always"></param><embed
+    src="http://www.youtube.com/v/_s_30x_d5bo?fs=1" type="application/x-shockwave-flash"
+    width="500" height="405" allowscriptaccess="always" allowfullscreen="true"></embed></object>',
+  url: null}

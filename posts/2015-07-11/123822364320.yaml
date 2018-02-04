@@ -1,0 +1,12 @@
+caption: !!python/str "<p>F1 Montreal.</p><p>Chadchelor (Chad\u2019s Bachelor Party)</p>"
+id: 123822364320
+photos: [./images/2015-07-11/52cdf458ab6d152fea035b5a54622df3f73513ad6f2111f63622022fab52b159.jpg,
+  ./images/2015-07-11/693670d2c9e6a26481d41068925d83b0de6e52fd22c667af7936ab1887ae61d0.jpg,
+  ./images/2015-07-11/f4fb65076e2a640989a03b948b3cffa222f8c8b8dd6848346b8956538bb2d6d9.jpg,
+  ./images/2015-07-11/c95c997f40e72db73d715fd357964891254bcb39f4ff571b71f74b26c4e5bfeb.jpg,
+  ./images/2015-07-11/04ba28385dc0878f82fbe6f4f6c8302e67a563a8c533a87040e6e9ec40276944.jpg,
+  ./images/2015-07-11/0055a125364b9f18f124d0ee02f311765903d786ffe88a9d3b7dfdd29d4feb4d.jpg,
+  ./images/2015-07-11/213182be12c7e1e20fa67fa2f438cebddd1da22ce0aa8488b38e0719105dc290.jpg]
+tags: [!!python/unicode 'photography', !!python/unicode 'canada', !!python/unicode 'montreal',
+  !!python/unicode 'formula1', !!python/unicode 'f1']
+url: !!python/unicode 'http://x.naveen.com/post/123822364320/f1-montreal-chadchelor-chads-bachelor-party'

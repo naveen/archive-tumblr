@@ -1,0 +1,13 @@
+caption: !!python/str "<p><a href=\"https://twitter.com/everyplace\">mr. erin sparling</a>\
+  \ came over to visit spacecentre on friday afternoon.\_<span>i love having special\
+  \ guests over, especially when they bring toys: this time it was google glass. we\
+  \ all took turns trying it out.</span></p>\n<p>we started talking about interesting\
+  \ apps one could build off of it in this prototype phase. my idea to erin was to\
+  \ build \u2018ohsnapchatroulette\u2019. it works like this:\_<span>you take a photo\
+  \ \u2013 glass sends that photo to the cloud \u2013 then it shows you a photo that\
+  \ someone else took using the app. i think it\u2019ll be a hit.</span></p>"
+id: 52461756609
+photos: [./images/2013-06-08/decf64eb75d8d95013f2c05952512e02264a58779f45abbd0f972b4e18770310.jpg]
+tags: [!!python/unicode 'spacecentre', !!python/unicode 'erinsparling', !!python/unicode 'googleglass',
+  !!python/unicode 'nyc', !!python/unicode 'ohsnapchatroulette']
+url: !!python/unicode 'http://x.naveen.com/post/52461756609/mr-erin-sparling-came-over-to-visit-spacecentre'

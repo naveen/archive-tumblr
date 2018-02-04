@@ -1,0 +1,11 @@
+caption: !!python/str "<p><a href=\"http://blog.zhephree.com/post/6725939237\">zhephree</a>:</p>\n\
+  <blockquote>\n<p>For those working on or looking to work on foursquare for webOS,\
+  \ another task!</p>\n<p>Foursquare allows apps to set the global settings for a\
+  \ user. For instance, on the website, you can enable sending mayorships to twitter\
+  \ or Facebook. The API allows apps to provide a preference for users to do this.</p>\n\
+  <p>\u2026</p>\n</blockquote>"
+id: 6733901972
+link: {text: !!python/unicode 'Zhephree: New Task for Those Wanting to Help Build
+    foursquare for webOS!', to: !!python/unicode 'http://blog.zhephree.com/post/6725939237'}
+tags: []
+url: !!python/unicode 'http://x.naveen.com/post/6733901972/zhephree-new-task-for-those-wanting-to-help-build'

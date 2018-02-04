@@ -1,0 +1,10 @@
+caption: !!python/str "<p><a href=\"http://blog.zhephree.com/post/6289473382\">zhephree</a>:</p>\n\
+  <blockquote>\n<p>foursquare for webOS v2.7 is available in the ol\u2019 App Catalog!</p>\n\
+  <p>I finally nailed the GPS positioning. With some insight from James Harris of\
+  \ Flash Cards fame, I\u2019ve been able to overcome the pitfalls of the GPS hardware\
+  \ in webOS devices and the amazing (read: shitty) garbage collection in\u2026</p>\n\
+  </blockquote>"
+id: 6307617399
+link: {text: !!python/unicode 'Zhephree: Don''t Stop, Get It, Get It!', to: !!python/unicode 'http://blog.zhephree.com/post/6289473382'}
+tags: []
+url: !!python/unicode 'http://x.naveen.com/post/6307617399/zhephree-dont-stop-get-it-get-it'

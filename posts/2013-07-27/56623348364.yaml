@@ -1,0 +1,10 @@
+caption: !!python/str "<p>venice.</p>\n<p>a city whose narrow alleys and canals are\
+  \ perfect for getting oneself lost.</p>\n<p>a city where time seems frozen in the\
+  \ old, slower-moving days.</p>\n<p>a city that\u2019s one of the most photogenic\
+  \ i\u2019ve ever seen \u2013 you can\u2019t take a poor photo in the whole place.</p>"
+id: 56623348364
+photos: [./images/2013-07-27/cbf6b79967959c2b375ac3e731212f8580898a8b24f02ad6ae2c678de3b56dc8.jpg,
+  ./images/2013-07-27/114c37c44e5c2f30f8dfb7bd17d5a61927858e54824d51fc9ec40830163dfe7e.jpg,
+  ./images/2013-07-27/c3ea7558a7695c2350e322d93aadafe8ff76026eeefea83a1130f7a39d2ad4f3.jpg]
+tags: [!!python/unicode 'photography', !!python/unicode 'italy', !!python/unicode 'venice']
+url: !!python/unicode 'http://x.naveen.com/post/56623348364/venice-a-city-whose-narrow-alleys-and-canals-are'

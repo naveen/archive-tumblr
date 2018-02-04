@@ -1,0 +1,11 @@
+caption: '<p><a href="http://www.youtube.com/watch?v=Nmf-I1WNpQ4&amp;feature=player_embedded">Skiing
+  down Park Avenue</a> (via <a href="http://youtube.com/user/mythryndyr">mythryndyr</a>)</p>
+
+  <p>has single-handedly rewritten the rules of the street</p>'
+id: 2586298963
+tags: []
+url: !!python/unicode 'http://x.naveen.com/post/2586298963/skiing-down-park-avenue-via-mythryndyr-has'
+video: {embed: !!python/unicode '<iframe width="500" height="281"  id="youtube_iframe"
+    src="https://www.youtube.com/embed/Nmf-I1WNpQ4?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque"
+    frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>',
+  url: !!python/unicode 'https://www.youtube.com/watch?v=Nmf-I1WNpQ4'}

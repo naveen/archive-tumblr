@@ -1,0 +1,9 @@
+caption: <p><a href="http://vimeo.com/10829255">new york gets invaded by 8-bit.</a></p>
+id: 556393543
+tags: []
+url: !!python/unicode 'http://x.naveen.com/post/556393543/new-york-gets-invaded-by-8-bit'
+video: {embed: !!python/unicode '<object type="application/x-shockwave-flash" data="http://vimeo.com/moogaloop.swf"
+    width="500" height="281"><param name="allowscriptaccess" value="always"/><param
+    name="allowfullscreen" value="true"/><param name="movie" value="http://vimeo.com/moogaloop.swf"/><param
+    name="flashvars" value="clip_id=10829255&server=vimeo.com&fullscreen=1&show_title=1&show_byline=1&show_portrait=1&color=00ADEF"/></object>',
+  url: null}

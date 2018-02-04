@@ -1,0 +1,17 @@
+caption: '<p>found through a Notorious B.I.G. mashup</p>
+
+  <p>uh-huh</p>
+
+  <p>and another one</p>
+
+  <p><a href="http://www.youtube.com/watch?v=brnG0auVYVs">Mary Jane Girls - All Night
+  Long</a></p>'
+id: 3366958455
+tags: []
+url: !!python/unicode 'http://x.naveen.com/post/3366958455/found-through-a-notorious-big-mashup-uh-huh'
+video: {embed: !!python/unicode '<object width="500" height="405"><param name="movie"
+    value="http://www.youtube.com/e/brnG0auVYVs"></param><param name="allowFullScreen"
+    value="true"></param><param name="allowscriptaccess" value="always"></param><embed
+    src="http://www.youtube.com/e/brnG0auVYVs" type="application/x-shockwave-flash"
+    width="500" height="405" allowscriptaccess="always" allowfullscreen="true"></embed></object>',
+  url: null}

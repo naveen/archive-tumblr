@@ -1,0 +1,6 @@
+caption: <p>clustering proxy server. app servers behind it are responsible for setup
+  and therefore maintain persistent connections</p>
+id: 65251037
+link: {text: !!python/unicode 'Swiftcore Swiftiply', to: !!python/unicode 'http://swiftiply.swiftcore.org/'}
+tags: []
+url: !!python/unicode 'http://x.naveen.com/post/65251037/swiftcore-swiftiply'

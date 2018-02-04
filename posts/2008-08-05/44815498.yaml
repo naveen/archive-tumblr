@@ -1,0 +1,6 @@
+caption: <p>collaborative filtering; find loose associations between users and items
+  (bought, bookmarked, rated, etc)</p>
+id: 44815498
+link: {text: !!python/unicode 'acts_as_recommendable', to: !!python/unicode 'http://github.com/maccman/acts_as_recommendable'}
+tags: []
+url: !!python/unicode 'http://x.naveen.com/post/44815498/actsasrecommendable'

@@ -1,0 +1,6 @@
+caption: <p>handles many archive types; archives are extracted into their own dedicated
+  directories; fixes permissions</p>
+id: 45104945
+link: {text: !!python/unicode 'dtrx: Intelligent archive extraction', to: !!python/unicode 'http://brettcsmith.org/2007/dtrx/'}
+tags: []
+url: !!python/unicode 'http://x.naveen.com/post/45104945/dtrx-intelligent-archive-extraction'

@@ -1,0 +1,9 @@
+caption: <p><a href="http://www.youtube.com/watch?v=OSRCemf2JHc">Gershon Kingsley
+  - Popcorn</a> (via sam valenti)</p>
+id: 3001074022
+tags: []
+url: !!python/unicode 'http://x.naveen.com/post/3001074022/gershon-kingsley-popcorn-via-sam-valenti'
+video: {embed: !!python/unicode '<iframe width="500" height="375"  id="youtube_iframe"
+    src="https://www.youtube.com/embed/OSRCemf2JHc?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque"
+    frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>',
+  url: !!python/unicode 'https://www.youtube.com/watch?v=OSRCemf2JHc'}

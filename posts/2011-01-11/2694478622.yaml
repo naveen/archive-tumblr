@@ -1,0 +1,11 @@
+caption: !!python/str "<p>love this mini doc on the sartorialist \u2013 especially\
+  \ the bit where the projector shines on the city</p>\n<p><a href=\"http://www.youtube.com/watch?v=e5NgG5koPZU&amp;feature=player_embedded#!\"\
+  >Intel Visual Life - The Sartorialist</a> (via <a href=\"http://youtube.com/user/channelintel\"\
+  >channelintel</a>)</p>"
+id: 2694478622
+tags: []
+url: !!python/unicode 'http://x.naveen.com/post/2694478622/love-this-mini-doc-on-the-sartorialist'
+video: {embed: !!python/unicode '<iframe width="500" height="281"  id="youtube_iframe"
+    src="https://www.youtube.com/embed/e5NgG5koPZU?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque"
+    frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>',
+  url: !!python/unicode 'https://www.youtube.com/watch?v=e5NgG5koPZU'}

@@ -1,0 +1,13 @@
+caption: '<p>one of my most favorite stunts OF ALL TIME</p>
+
+  <p>i really need to get back to doing pranks</p>
+
+  <p><a href="http://www.youtube.com/watch?v=wKB7zfopiUA&amp;feature=player_embedded">Who
+  You Gonna Call?</a> (via <a href="http://youtube.com/user/ImprovEverywhere">ImprovEverywhere</a>)</p>'
+id: 2951431399
+tags: []
+url: !!python/unicode 'http://x.naveen.com/post/2951431399/one-of-my-most-favorite-stunts-of-all-time-i'
+video: {embed: !!python/unicode '<iframe width="500" height="281"  id="youtube_iframe"
+    src="https://www.youtube.com/embed/wKB7zfopiUA?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque"
+    frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>',
+  url: !!python/unicode 'https://www.youtube.com/watch?v=wKB7zfopiUA'}

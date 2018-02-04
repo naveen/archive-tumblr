@@ -1,0 +1,13 @@
+caption: !!python/str "<p><a href=\"http://blog.zhephree.com/post/5218525149\">zhephree</a>:</p>\n\
+  <blockquote>\n<p>With new features and content, generally a UI update is required\
+  \ to fit it all together. So, after adding in a couple of things to the result of\
+  \ a foursquare check-in, I needed to rework the result scene.</p>\n<p>I\u2019ve\
+  \ modeled it very closely to the official foursquare apps on the iPhone and Android.</p>\n\
+  <p><img src=\"./images/2011-05-05/c5bbaae2303b3e6a5419b4efd54c4f5955360626f19f01c53ef007ced74e067d.png\"\
+  /></p>\n</blockquote>\n<p>explore/recommendations are coming soon to the palm app</p>\n\
+  <p>geoff is killing it on this platform!</p>"
+id: 5220099927
+link: {text: !!python/unicode 'Zhephree: foursquare Update Looming: Explore and More!',
+  to: !!python/unicode 'http://blog.zhephree.com/post/5218525149'}
+tags: []
+url: !!python/unicode 'http://x.naveen.com/post/5220099927/zhephree-foursquare-update-looming-explore-and'

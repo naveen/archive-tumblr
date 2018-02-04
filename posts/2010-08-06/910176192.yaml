@@ -1,0 +1,15 @@
+caption: '<p><a href="http://www.youtube.com/watch?v=J5gCeWEGiQI&amp;feature=player_embedded">Star
+  Wars Subway Car</a> (via <a href="http://youtube.com/user/ImprovEverywhere">ImprovEverywhere</a>)</p>
+
+  <p>CLASSIC!</p>
+
+  <p>i need to start doing more pranks.</p>
+
+  <p>one day, i would like to do one with improv everywhere</p>'
+id: 910176192
+tags: []
+url: !!python/unicode 'http://x.naveen.com/post/910176192/star-wars-subway-car-via-improveverywhere'
+video: {embed: !!python/unicode '<iframe width="500" height="281"  id="youtube_iframe"
+    src="https://www.youtube.com/embed/J5gCeWEGiQI?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque"
+    frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>',
+  url: !!python/unicode 'https://www.youtube.com/watch?v=J5gCeWEGiQI'}

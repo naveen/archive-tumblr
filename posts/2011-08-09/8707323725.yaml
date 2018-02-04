@@ -1,0 +1,15 @@
+caption: !!python/str "<p>\u201Cwith intensity!\u201D. me talking about foursquare\
+  \ on tv tokyo.</p>\n<p>(via <a href=\"http://www.tv-tokyo.co.jp/mv/nms/ny/post_4989\"\
+  >\u7C73 \u65B0\uFF33\uFF2E\uFF33 \u5171\u6709\u3059\u308B\u306E\u306F\u30FB\u30FB\
+  \u30FB\uFF1A\u30CB\u30E5\u30FC\u30B9\u30E2\u30FC\u30CB\u30F3\u30B0\u30B5\u30C6\u30E9\
+  \u30A4\u30C8\uFF1A\u30C6\u30EC\u30D3\u6771\u4EAC</a>)</p>"
+id: 8707323725
+tags: []
+url: !!python/unicode 'http://x.naveen.com/post/8707323725/with-intensity-me-talking-about-foursquare-on'
+video: {embed: !!python/unicode "<script type=\"text/javascript\" charset=\"utf-8\"\
+    \ src=\"http://www2.uliza.jp/IF/RequestMovie.aspx?clientid=629&episodeid=4989&smode=1&width=480&height=270\"\
+    ></script><!--scatalyst--> \r\n<script type=\"text/javascript\"> \r\n<!--\r\n\t\
+    function ulizaTimelineEventEIHandler(json){\r\n\t\tif (json.timeline.toString()\
+    \ == '1') {\r\n\t\t\ts.Media.open('suj_20110801_ms_ny01','','suj_player_news_swf');\r\
+    \n\t\t\ts.Media.play('suj_20110801_ms_ny01',0);\r\n\t\t}\r\n\t\treturn true;\r\
+    \n\t}\r\n// -->\r\n</script> ", url: null}
